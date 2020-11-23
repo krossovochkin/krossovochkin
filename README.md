@@ -21,7 +21,7 @@
 <a href="https://medium.com/@krossovochkin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@krossovochkin" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/krossovochkin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="krossovochkin" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krossovochkin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="krossovochkin" height="30" width="40" /></a>
-<a href="/https://krossovochkin.github.io/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://krossovochkin.github.io/index.xml" height="30" width="40" /></a>
+<a href="https://krossovochkin.github.io/index.xml" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://krossovochkin.github.io/index.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
