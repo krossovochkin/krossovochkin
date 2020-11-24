@@ -11,6 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Boolean not](https://krossovochkin.github.io/posts/2020_10_31_boolean_not/)
+- [Middle Point](https://krossovochkin.github.io/posts/2020_10_28_middle_point/)
+- [Kotlin Functional Interfaces: Function reference and SAM conversion](https://krossovochkin.github.io/posts/2020_10_17_kotlin_functional_interfaces_function_references_and_sam_conversion/)
+- [Kotlin Nitpicker's guide](https://krossovochkin.github.io/posts/2020_10_14_kotlin_nitpickers_guide/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
