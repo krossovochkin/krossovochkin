@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vasya Drobushkov</h1>
 <h3 align="center">A passionate Android developer from Minsk, Belarus</h3>
 
-- 🔭 I’m currently working on [FiberyUnofficial](https://github.com/krossovochkin/FiberyUnofficial)
+- 🔭 I’m currently working on [FiberyUnofficial](https://github.com/krossovochkin/FiberyUnofficial) and [KWeather](https://github.com/krossovochkin/KWeather)
 
-- 👯And also on [KWeather](https://github.com/krossovochkin/KWeather)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/krossovochkin?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://github.com/krossovochkin?tab=repositories](https://github.com/krossovochkin?tab=repositories)
-
-- 📝 I regulary write articles on [https://krossovochkin.github.io](https://krossovochkin.github.io)
+- 📝 I regulary write articles on [my blog](https://krossovochkin.github.io)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
