@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vasya Drobushkov</h1>
 <h3 align="center">A passionate Android developer from Minsk, Belarus</h3>
 
-- 🔭 I’m currently working on [FiberyUnofficial](https://github.com/krossovochkin/FiberyUnofficial) and [KWeather](https://github.com/krossovochkin/KWeather)
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/krossovochkin?tab=repositories)
-
-- 📝 I regulary write articles on [my blog](https://krossovochkin.github.io)
+- 👴 Experienced in Android since 2011, Android 1.6, HTC Dream
+- 🛠️ During that journey was developing mobile games, enterprise and product apps, SDKs
+- 🖥️ Aspired by learning something new
+- ✔️ Apart from work developing [FiberyUnofficial](https://github.com/krossovochkin/FiberyUnofficial) app following Android development best practices
+- 🌞 And also [KWeather](https://github.com/krossovochkin/KWeather) based on Kotlin Multiplatform and Android Jetpack Compose.
+- 📚 Looking forward to knowledge-sharing: writing articles on [my blog](https://krossovochkin.github.io)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
