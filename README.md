@@ -6,7 +6,7 @@
 - 🖥️ Aspired by learning something new
 - ✔️ Apart from work developing [FiberyUnofficial](https://github.com/krossovochkin/FiberyUnofficial) app following Android development best practices
 - 🌞 And also [KWeather](https://github.com/krossovochkin/KWeather) based on Kotlin Multiplatform and Android Jetpack Compose.
-- 📚 Looking forward to knowledge-sharing: writing articles on [my blog](https://krossovochkin.github.io)
+- 📚 Looking forward to knowledge-sharing: writing articles on [my blog](https://krossovochkin.github.io), posting interesting to read articles in [telegram channel](https://t.me/krossovochkin_newsletter)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
