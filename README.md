@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debugging Proguard configuration issues](https://krossovochkin.com/posts/2021_01_18_debugging_proguard_configuration_issues/)
 - [Optimize reading articles experience](https://krossovochkin.com/posts/2021_01_16_optimize_reading_articles_experience/)
 - [Android Room Hidden Costs](https://krossovochkin.com/posts/2020_12_18_android_room_hidden_costs/)
 - [Boolean not](https://krossovochkin.com/posts/2020_10_31_boolean_not/)
-- [Middle Point](https://krossovochkin.com/posts/2020_10_28_middle_point/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
