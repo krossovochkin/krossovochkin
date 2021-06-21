@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why custom website instead of Medium](https://krossovochkin.com/posts/2021_06_21_why_custom_website_instead_of_medium/)
 - [Custom Reactive JSON parsing](https://krossovochkin.com/posts/2021_06_08_custom_reactive_json_parsing/)
 - [Bad Kotlin Extensions](https://krossovochkin.com/posts/2021_01_25_bad_kotlin_extensions/)
 - [Debugging Proguard configuration issues](https://krossovochkin.com/posts/2021_01_18_debugging_proguard_configuration_issues/)
-- [Optimize reading articles experience](https://krossovochkin.com/posts/2021_01_16_optimize_reading_articles_experience/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
