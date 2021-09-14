@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Controlling TextView MinWidth](https://krossovochkin.com/posts/2021_09_14_controlling_textview_minwidth/)
 - [Mocking Matchers API](https://krossovochkin.com/posts/2021_09_11_mocking_matchers_api/)
 - [JUnit Coroutines Runner](https://krossovochkin.com/posts/2021_07_10_junit_coroutines_runner/)
 - [Kotlin flow: Nesting vs Chaining](https://krossovochkin.com/posts/2021_07_08_kotlin_flow_nesting_vs_chaining/)
-- [Why custom website instead of Medium](https://krossovochkin.com/posts/2021_06_21_why_custom_website_instead_of_medium/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
