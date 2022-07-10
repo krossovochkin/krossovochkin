@@ -13,7 +13,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://krossovochkin.com/index.xml"
+          feed_list: "https://krossovochkin.com/posts/index.xml"
           disable_item_validation: true
           item_exec: |
                 if(!post.title) post = null;
