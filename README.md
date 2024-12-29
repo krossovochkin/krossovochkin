@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vasya Drobushkov</h1>
-<h3 align="center">A passionate Android developer from Minsk, Belarus</h3>
+<h3 align="center">A passionate Android developer</h3>
 
 - 👴 Experienced in Android since 2011, Android 1.6, HTC Dream
 - 🛠️ During that journey was developing mobile games, enterprise and product apps, SDKs
 - 🖥️ Aspired by learning something new
 - ✔️ Apart from work developing [FiberyUnofficial](https://github.com/krossovochkin/FiberyUnofficial) app following Android development best practices
 - 🌞 And also [KWeather](https://github.com/krossovochkin/KWeather) based on Kotlin Multiplatform and Android Jetpack Compose.
-- 📚 Looking forward to knowledge-sharing: writing articles on [my blog](https://krossovochkin.github.io), posting interesting to read articles in [telegram channel](https://t.me/krossovochkin_newsletter)
+- ♟️ As well as [chess.kt](https://github.com/krossovochkin/chess.kt) Kotlin Multiplatform chess backend
+- 📚 Looking forward to knowledge-sharing: writing articles on [my blog](https://krossovochkin.com), posting interesting to read articles in [telegram channel](https://t.me/krossovochkin_newsletter)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
