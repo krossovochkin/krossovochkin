@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [When SOLID breaks: Choose CLARITY](https://krossovochkin.com/posts/2025_05_05_when_solid_breaks_choose_clarity/)
 - [Java after Kotlin](https://krossovochkin.com/posts/2025_02_17_java_after_kotlin/)
 - [Relatively Non-Obvious Tricks in Solving Simple Algorithmic Problems](https://krossovochkin.com/posts/2024_12_21_relatively_non_obvious_tricks_in_solving_simple_algorithmic_problems/)
 - [Reactive streams testing](https://krossovochkin.com/posts/2023_01_08_reactive_streams_testing/)
-- [When Compose remember cannot forget](https://krossovochkin.com/posts/2022_07_23_when_compose_remember_cannot_forget/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
