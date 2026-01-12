@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin Coroutines Cancellation and Exception Handling](https://krossovochkin.com/posts/2026_01_11_kotlin_coroutines_cancellation_and_exception_handling/)
 - [Data-Driven Debugging for Engineers](https://krossovochkin.com/posts/2025_06_03_data_driven_debugging_for_engineers/)
 - [When SOLID breaks: Choose CLARITY](https://krossovochkin.com/posts/2025_05_05_when_solid_breaks_choose_clarity/)
 - [Java after Kotlin](https://krossovochkin.com/posts/2025_02_17_java_after_kotlin/)
-- [Relatively Non-Obvious Tricks in Solving Simple Algorithmic Problems](https://krossovochkin.com/posts/2024_12_21_relatively_non_obvious_tricks_in_solving_simple_algorithmic_problems/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
